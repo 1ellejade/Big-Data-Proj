@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 #Reduce 2
 
 from operator import itemgetter
