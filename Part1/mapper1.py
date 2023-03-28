@@ -1,3 +1,6 @@
+#!/usr/bin/python
+# --*-- coding:utf-8 --*--
+
 #Map 1
 
 import re
