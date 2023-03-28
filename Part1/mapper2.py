@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 #Map 2
 
 from operator import itemgetter
